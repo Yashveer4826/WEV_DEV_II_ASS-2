@@ -1,0 +1,25 @@
+body{
+font-family: Arial;
+text-align:center;
+margin-top:50px;
+}
+
+input{
+padding:10px;
+font-size:16px;
+}
+
+button{
+padding:10px 15px;
+cursor:pointer;
+}
+
+#weatherResult{
+margin-top:20px;
+font-size:18px;
+}
+
+li{
+cursor:pointer;
+color:blue;
+}
